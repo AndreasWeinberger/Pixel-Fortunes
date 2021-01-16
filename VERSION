@@ -1,0 +1,6 @@
+BUILD 1.05
+
+Changelog
+  - Fixed a bug where the player loses a life when pressing RIGHT too fast after getting squashed
+  - Fixed a bug where Leveltimes and Globaltimes would not be displayed correctly in the console
+  - Added an icon for the console and changed its size
